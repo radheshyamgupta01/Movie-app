@@ -1,0 +1,49 @@
+ .movie{
+
+
+    border-radius: 10px;
+
+ /* border:  1px solid black;  */
+
+
+ }
+*{
+    padding: 0;
+}
+.movie h2{
+color: yellow;
+}
+.movie p{
+color: white;
+}
+.movie li{
+
+border: 1px solid black;
+margin: 10px;
+border-radius: 10px ;
+
+background-color:rgb(3, 3, 68);
+
+} 
+.movie .movieDiv{
+
+
+ gap: 10px;
+
+}
+.movie  .movieDiv button{
+    background-color: red;
+    color: white;
+    width: 150px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+   
+} 
+.movie .movieDiv ul li{
+    list-style: none;
+}
+.movie .movieDiv ul{
+    width: 100%;
+    padding: none;
+
+}

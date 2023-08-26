@@ -1,0 +1,32 @@
+ .addmovie{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.addmovie label{
+    text-align: start;
+    height: 30px;
+    margin-left: 30px;
+    font-size: large;
+    font-weight: 500;
+}
+.addmovie input{
+    height: 30px;
+    width: 430px;
+    margin-left: 30px;
+}
+.addmovie textarea{
+    width: 430px;
+    margin-left: 30px;
+}
+.addmovie .add{
+    text-align: center;
+    align-items: center; 
+    position: relative;
+    top: 0;
+    left: 180px;
+    margin-bottom: 10px;
+} 
